@@ -1,0 +1,23 @@
+BUG!! Las listas que guardan los errores no se borran si se cancela el test, y después se guarda cualquier cosa como respuestas erróneas. !!!
+///////////////////////////////////////////
+
+Agregar un botón que permita borrar la palabra de ToRetest
+La información de la cantidad de palabras que se guarda en los .goi no es correcta. Cuando se grabaron errores se guarda las cantidad del archivo original...
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+** Cuando hago un joinfiles el último item de la lista de wrongs desaparece y es reemplazado por el item creado por joinfiles. Esto no pasa siempre, pasó cuando elegí unir todos los items de la lista. Hay que hacer pruebas y depurar para ver cuando esto sucede.
+--->>Sucede cuando queda seleccionado un item...
++++ Lo arreglé poniendo itemindex a -1 :-)
+
+** La lista 3 en los errores se guarda como un archivo ANSI.
+
+** Cuando cargo "Vocabulary" de la lista de stored, no se actualiza el porcentaje actual abajo a la derecha, pero cuando cargo otros archivos sí se actualiza... mhmm...
+
+** Cuando se borra un item de la lista de wrongs, el item que pasa arriba toma el nombre del archivo del item que se borró... tendrá que ver con itemindex también???
+
+!! En la ventana de details agregar un botón que muestre todos los porcentajes.
+!! Agregar la duración del test en la ventana de los resultados y en details.
+!! Agregar un botón para desactivar retest mistakes cuando se hace el test.
+!! Agregar opción de borrar de la lista de wrongs cuando el archivo cargado de stored se hizo al 100%.
+!! Si retest mistakes no estaba activado, agregar la opción de testear las respuestas incorrectas.

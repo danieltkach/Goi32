@@ -1,0 +1,19 @@
+procedure TfmSaveAnswers.sbDirectory1Click(Sender: TObject);
+var
+  i: Integer;
+  Temp: TComponent;
+begin
+  if fmDirectories.Showmodal = mrOk then
+  begin
+    for i:=ComponentCount - 1 downto 0 do
+    begin
+      Temp:=Components[i];
+      if (Temp is TLabeledEdit) then
+      begin
+        if Temp.Tag=(Sender as TSpeedButton).Tag then
+          (Temp as TLabeledEdit).Text:=fmDirectories.DirectoryListBox1.Directory+
+          '\'+ExtractFileName((Temp as TLabeledEdit).Text);
+      end;
+    end;
+  end;
+end;

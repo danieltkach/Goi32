@@ -1,0 +1,253 @@
+{TODO 1 : Agregar un checkbox en la ventana de configuraciones para activar el modo sánscrito, sin que aparezca el pop up menu cuando se elije el modo de test.}
+{TODO 1 : Agregar la posibilidad de manejar diferentes usuarios. Simplemente se va a crear un archivo de correctas y otros de incorretas; el nombre de usuario simplemente se guarda como el nombre del archivo de respuestas.}
+
+{TODO 1 : Agregar un modo para testear el vocabulario que sea completar un texto. El texto puede ser leído también!}
+{TODO 2 : *IDEA* Agregar modo de traducción de oraciones o frases. Una ventana con 5 o más editboxes y un botón al final "check" :-)}
+{TODO 2 : *IDEA* Dar la posibilidad de agregar a la lista de wrongs sin haberse equivocado. Uno tiene que poder elegir palabras que quiere volver a testear porque las sabe pero también sabe que puede olvidarlas fácilmente.}
+{DONE 1 : !^*BUUUG*^! Cuando se eligió el test 2->4 luego como primer lista se guardan los significados, o sea la lista de palabras que aparece en la listbox de resultados... voy a tener que crear una listbox oculta alternativa para ir guardando los errores o usar algún índice para sacarlas de la lista 1 de form1.}
+{DONE 1 : *IDEA* Add option RETEST ALL or RETEST 9.}
+{DONE 1 : !!!*BUG* Cuando el panel está rojo por respuesta incorrecta y presionamos en la ayuda de la checkbox no se puede pasar al siguiente item. Hay un problema con el foco, que no puede volver a la ventana principal.}
+{DONE 1 : *IDEA* Mix up toretest list before retesting. I can use the MezclarLista procedure from Form1.}
+{DONE 1 : !!!BUG!!! Cuando se juega con los nuevos botones toretest, después aparecen mas de una vez las palabras de retest cuando se vuelve a activar!!!}
+{TODO 2 : !! Agregar opción de borrar de la lista de wrongs cuando el archivo cargado de stored se hizo al 100%.}
+{DONE 1 : !! Agregar un botón para desactivar retest mistakes cuando se hace el test.}
+{TODO 2 : !! Agregar la duración del test en la ventana de los resultados y en details.}
+{TODO 2 : !! En la ventana de details agregar un botón que muestre todos los porcentajes.}
+{DONE 1 : ** Cuando se borra un item de la lista de wrongs, el item que pasa arriba toma el nombre del archivo del item que se borró... tendrá que ver con itemindex también???}
+{DONE 1 : ** Cuando cargo "Vocabulary" de la lista de stored, no se actualiza el porcentaje actual abajo a la derecha, pero cuando cargo otros archivos sí se actualiza... mhmm...}
+{DONE 1 :
+** Cuando hago un joinfiles el último item de la lista de wrongs desaparece y es reemplazado por el item creado por joinfiles. Esto no pasa siempre, pasó cuando elegí unir todos los items de la lista. Hay que hacer pruebas y depurar para ver cuando esto sucede.
+--->>Sucede cuando queda seleccionado un item...
++++ Lo arreglé poniendo itemindex a -1 :-)}
+{TODO 2 : ** La lista 3 en los errores se guarda como un archivo ANSI.}
+{DONE 2 : *IDEA* LIMITAR el número de respuestas incorrectas que Goi pregunta. Agregar opción para regularlo.}
+{DONE 1 : [!!] *BUG* VERIFICAR QUE TORETESTMISTAKES FUNCIONE BIEN CUANDO UNO SE EQUIVOCA PALABRAS SALTEADAS EN VEZ DE TODAS DE CORRIDO}
+{TODO 1 : Add "column click" for tested files list.}
+{TODO 2 : *IDEA* When you don't make any mistakes Goi could ask you if you want to delete the old wrongs file.}
+{DONE 4 : *IDEA* Add AUTOTEST option, where the user selects some files, and a new test is created taking items at random from those files. :-)}
+{TODO 1 : * Sacar el manejo de directorios y archivos de SaveWrongAnswersFile!!!!!! Por favor.}
+{DONE 1 : BUG: Arreglar el guardado manual de wrong answers.}
+{TODO 2 : ++ La función StoreFile debe guardar no solo el nombre de archivo y average, sino toda la información del goifile.}
+{TODO 1 : BUG: Cuando se borra un item de la lista de wrongs, el item que pasa arriba toma el nombre del archivo del item que se borró... tendrá que ver con itemindex también???}
+{DONE 1 : BUG: La lista 3 en los errores se guarda como un archivo ANSI.}
+{DONE 1 : BUG: The joined files are saved with wrong names, that is, the meanings file has an"r", and the readings file has an "m".}
+{TODO 2 :*IDEA* Program some kind of test where you have to choose the words related to the one shown; like a collocations game. Given the verb, you choose the nouns and advers and so on...}
+{DONE 2 : Add again the possiblility of MANUALLY SAVING WRONG ANSWERS, since this is useful when the wrongs lists are long.}
+
+{DONE 1 : BUG: En uJoinFiles no se llama a "SaveAnswers"... checkear si esto funciona de esta forma}
+{DONE 1 : BUG: When you create a .goi file it gives an error message!! Then the wrong answers are saved with no description.}
+{TODO 1 : In btMixlists the data to the lists to be mixed should be loaded from the files instead of from the listboxes. This will allow the user to mix the list more than once withouth reloading the file.}
+{DONE 1 : When you choose to create a new item, this must be created only in the wrong answers list, not in the stored files list.}
+{DONE  : When you choose to save a wrong answers file, Goi should only ask you for the description. The .goi file has to be save automatically inside the folder for the files being tested.}
+{DONE 1 : After creating a .goi file, the edit box in the description window must have the name of the .goi file without the extension. There seems to be a problem... debug!!!!!!!!}
+{DONE 1 : DEBUG: Unit4. line 102. There is a problem when you choose to update the entry, but there's no entry to update, so the first item is erased...}
+{DONE 1 : Finish help file, and show it the first time the program loads.}
+{TODO 2 : Add an alarm when you my study a certain list. The program must be running on the background all the time...}
+{TODO 1 : BUG: Test to see what happens if you need to load several kanjis with the same reading...}
+{DONE 1 : BUG: The program doesn't read the .ini file!!!}
+{TODO 1 : BUG: The clear button does not still work well..................}
+{TODO 1 : 
+BUG: The wrong answers are not stored well in the multiple choice
+exercise. They repeat all the times you clicked on the wrong kanji not
+just the first as it should be!!}
+{TODO 5 :
+BUG: Line 142, uMultipleChoice
+if waInc then inc(waCounter); //or Clicked a different kanji...
+That's why the wrong answers are not stored properly!!!!!!!!}
+{TODO 5 :
+BUG: The right and wrong answers are not stored properly in the
+multiple choice mode. I dunno about the draw mode...}
+{DONE  :
+BUG: When you load a file from the wrong answers list and then click or
+do something with the stored test list/window, the test is updated in the
+test window instead!!!!!!!!}
+{DONE  :
+Add two parameters to the procedure TestingForm.CheckWhatListtoshow.
+One is where the question is going to be showed, the other is where the
+hint or help is going to be showed.}
+{TODO 2 : Add the possibility of clearing the L file.}
+{DONE  :
+BUG: There's a problem when you delete an item from the wrongs list.
+The file to be deleted is the one that the caption indicates, but the caption
+says "No file selected". Solve it.}
+{DONE 1 :
+BUG: When you want to update the results for an entry that does not
+exist, there's a memory error.}
+{DONE 1 : When an L file is ceated, the lines stored are not written.}
+{DONE  :
+When you save a goi file that already exists, the program cannot replace
+the folder with the old files because the rename function fails when the
+files exist. You have to delete the files if they exist.}
+{TODO 3  :
+BUG: if the file to be deleted from the list does not exist, the list does not
+update and you have to close and reopen the tested files window.}
+{TODO 2 :
+Fix the create report function. It must not read the first two characters, it
+must look for the words, reading (parsing) the line.}
+{DONE  :
+BUG: There's a problem when the wrong answers list is updated
+after a test. The results are not stored... sometimres...!!
+Maybe fixed.}
+{DONE  : Create menues at runtime for all the goi files in the Essential Kanji folder.}
+{DONE  :
+bug: it doesn't let me save the wrong answers because the results
+window does not appear!!!}
+{DONE  :
+BUG: When you load a file from the wrong answers list, then the results
+of the test are not updated.}
+{DONE 5 : Add the entries that are left to the ini file.}
+{DONE  :
+BUG: There's still problems with the new study system of repeating 
+the wrong answers. I think it's something with the ToRetest.correct variable.}
+{DONE  :
+BUG: When you save a goi file after loading the four lists, the 
+descriptiojn does not store in the goi file.}
+{DONE 2 : Use the Joingoifiles procedure in the Join files form.}
+{DONE  :
+Fix the problem of formatting the text window. I should save the logfile
+as rtf.}
+{DONE  :
+The program should test a word that you did not guess over and over
+again. When you don't guess a word, it is stored in a list of 
+noguessedwords, then, after every other word tested these words will
+appear until you do all of them right.}
+{DONE  : C:\Goi32\Fuente\uJoinFiles.pas 289
+check 288 , the names are empty.........
+}
+{DONE  :
+If the file was loaded from the lists the description must be read from here
+instead from the goi file!}
+{DONE  : BUG: I cannot test Wrong from report. A memomery error appears.}
+{DONE  : BUG: Load a test from the wrongs list, then save the wrong answers for
+that test. There's a problem with the description besides other puzzling 
+details. The problem is in the line 229, unit4. The description window must
+appear before calling the savegoifile procedure. 
+I think I fixed this but now by assigning the description to the global variable
+filedescription, after saving the file the description of the current file becomes
+the description of the file saved.}
+{DONE  : Write in the L file what type of test you did.}
+{TODO 4 : Add automatic wrong answers saving and testing.}
+{DONE  : Eliminate the juego variable.}
+{DONE  : Add the date the L file was created inside it.}
+
+{DONE  :
+Add a way of testing kanji by showing its pronunciations. You then have to
+write the kanji in a piece of paper or draw it in your mind.}
+{DONE  :
+Add another type of test where you have to write the meaning for the
+reading of a word instead of its writing.}
+
+{DONE  :
+Fix the procedure TfmResults.StoreFile(FileWhere, FileWhat: string); because
+it does not update the list very well.}
+
+{DONE  :
+Add a second flag to SaveGoiFile to know whether you have to copy the
+files or to rename and move them.}
+
+{DONE  :
+Check what happens when you load a file that does not exist from the 
+results window.}
+{DONE  : Include the getrightpath function inside SaveGoifilename.}
+{TODO 2 : Finish the create report function. Add to the report information about the
+kanjis that appear more than once. Add the possibility of choosing the
+dates, from to.}
+
+{DONE  :
+Solve the problem of the percentage sign that is written twice when you
+press the store file button.}
+{DONE 4 :
+Add an option called Test Random. This option will read through the kanjis
+file and choose some kanjis at random and it will create the readings file
+and all that. Then after the test the files will erase automatically.}
+{DONE  :
+When you save the right answers a register must be stored in the results
+file.}
+{DONE  :
+Change the JOIN FILES code so that it can really join wrong answer files
+and not just kanji files!!!!!!!!!!}
+
+{TODO 4 : Erase the code which is not necessary!}
+{TODO 5 : Add comments for all the program.}
+{DONE  :
+I have to move the files of the list to the directory they correspond, the
+directory with the same name as the goi file. I have to add this to the
+sbSaveGroupClick procedure, before calling SaveGoiFile.}
+{DONE  :
+The LOADONEBYONE button has to create a .goi file after all the lists
+are loaded.}
+{DONE  : Give the choice of saving new answer results or updating the list.}
+{DONE  :
+When you do a test from the wrong answers list you have to update the
+list with the new results of the tests. THIS IS VERY IMPORTANT.}
+{DONE  :
+Unit1.FilenamesList:=nil;
+    //RELOAD LIST !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!}
+{DONE  :
+bp
+148
+1158
+1242}
+{DONE  : Eliminate the second FLAG in SAVEGOIFILE.}
+
+{DONE : Check if the .goi file exists in the join files code.}
+{DONE : Add the DESCRIPTION to the L file as well.}
+{DONE : Add flags to the SaveGoiFile procedure. Save dialog flag and
+Description dialog flag.}
+{DONE : The information about when a test starts does not log properly, it logs late, after the text has finishied.}
+{DONE  :
+Fix the bug of join files where it asks you again for the resulting file name
+and if you put in this save dialog a different name than the one you put
+in the edResultingName edit box... well, you know.
+This can be fixed by adding the l file to the parameters of the SaveGoiFile
+function.}
+{DONE  :
+Change the JOIN FILES code so that it can work with .goi files instead of
+.euc files.}
+{DONE  : Use the new GETGROUPFILENAME function.}
+{DONE  : Create an 'L' file when you save the wrong or right answers as well. You
+have to create a .goi file too.}
+{DONE  :
+Make the GOI files more complex, I mean, they must save more information.
+They should include the caption of the form, and maybe I should include 
+the results and the date, the way I do with L files. Maybe I should eliminate
+L files... }
+{DONE  : Save last tested file only if you did not get 100 percent.}
+{DONE  : Create a list of files where you save the tests that did not get 100. Then,
+the button that you use to load the last tested files will be used to show
+a window with all the files under 100 percent for you to choose.}
+{DONE  : Erase functions gpc and gpcl.}
+{TODO 5 :
+Inform about the percentage of kanjis forgotten. I need then to add a
+variable to save how many kanjis there are in the kanjis file.}
+{DONE  :
+Create goi files for all the vocabulary files and then erase the code which
+is not necessary!}
+{DONE  :
+Add in the form's caption what file was loaded. If it was a Joined file write
+what files this one was joined from.}
+{DONE  :
+Use ExtractRelativePath to show the name of the files in the join files 
+dialog. I have to fix many things if I want to include this!}
+{DONE  : Add logging to Join files and others.}
+{DONE   : Fix TfmJoinFiles.btSaveClick !!!!!}
+{DONE  : Create an INI file where you save the options for the program.}
+{DONE   :
+Create a LOG file were you write what you've been doing, the tests, the
+results, the files you created and opened...}
+{DONE  : Make loading of more lines possible.}
+{DONE  : Enable Save copy menu.}
+{DONE  : Create  a presentation window.}
+{DONE 4 : Check if the procedure AbrirVocab() can be erased or modified or if it is
+useful...}
+{DONE  : Enable group saving and "fix" group loading.}
+{DONE 5 : Create instructions for using the program, help files and tutorial.}
+{DONE : Check if the file exists (when you join the wrong answers files).}
+{DONE  : Change some global variables to local. Change some variables names to
+ reflect their real function...}
+
+{DONE  :
+Add the quantity of kanjis that are in the joined file. }
+{DONE  : When saving wrong or right answers also save a file containing the
+average and the date. Keep the same file and add new averages every
+ time you save the answers.}

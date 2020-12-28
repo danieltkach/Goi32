@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009/01/28 13:45:06.031.PAS,C:\Goi32\Fuente\UNIT2.PAS=C:\Goi32\Fuente\TestingUnit2.PAS</Transaction>
+    <Transaction>2009/01/28 13:45:06.031.dfm,C:\Goi32\Fuente\UNIT2.dfm=C:\Goi32\Fuente\TestingUnit2.dfm</Transaction>
+    <Transaction>2009/01/28 13:45:24.796.PAS,C:\Goi32\Fuente\TestingUnit2.PAS=C:\Goi32\Fuente\TestingUnit.PAS</Transaction>
+    <Transaction>2009/01/28 13:45:24.796.dfm,C:\Goi32\Fuente\TestingUnit2.dfm=C:\Goi32\Fuente\TestingUnit.dfm</Transaction>
+    <Transaction>2009/01/28 13:45:44.093.PAS,C:\Goi32\Fuente\TestingUnit.PAS=C:\Goi32\Fuente\uTesting1.PAS</Transaction>
+    <Transaction>2009/01/28 13:45:44.093.dfm,C:\Goi32\Fuente\TestingUnit.dfm=C:\Goi32\Fuente\uTesting1.dfm</Transaction>
+    <Transaction>2009/01/29 05:42:37.296.pas,C:\Goi32\Fuente\Unit4.pas=C:\Goi32\Fuente\uResults.pas</Transaction>
+    <Transaction>2009/01/29 05:42:37.296.dfm,C:\Goi32\Fuente\Unit4.dfm=C:\Goi32\Fuente\uResults.dfm</Transaction>
+    <Transaction>2009/01/29 05:44:13.484.pas,C:\Goi32\Fuente\uResults.pas=C:\Goi32\Fuente\Unit4.pas</Transaction>
+    <Transaction>2009/01/29 05:44:13.484.dfm,C:\Goi32\Fuente\uResults.dfm=C:\Goi32\Fuente\Unit4.dfm</Transaction>
+    <Transaction>2010/05/08 10:35:30.191.pas,C:\Goi32\Fuente\Unit2.pas=C:\Goi32\Fuente\uUsersWindow.pas</Transaction>
+    <Transaction>2010/05/08 10:35:30.229.dfm,C:\Goi32\Fuente\Unit2.dfm=C:\Goi32\Fuente\uUsersWindow.dfm</Transaction>
+    <Transaction>2010/05/09 12:40:55.278.pas,C:\Goi32\Fuente\Unit2.pas=C:\Goi32\Fuente\uFillinthegaps.pas</Transaction>
+    <Transaction>2010/05/09 12:40:55.292.dfm,C:\Goi32\Fuente\Unit2.dfm=C:\Goi32\Fuente\uFillinthegaps.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

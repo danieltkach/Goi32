@@ -1,0 +1,32 @@
+next
+side, way of doing
+east
+west
+up
+down
+middle
+large
+small
+sword
+part
+cut
+hand
+mouth
+enter
+exit
+river
+outside
+say
+shell
+temple
+time
+sell
+buy
+master
+hold
+husband
+rice field
+strength
+car
+read
+person

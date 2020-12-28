@@ -1,0 +1,11 @@
+*Pongo una oración cualquiera.*
+
+*Esto es para mostrarte cómo funciona el programa.*
+
+*¡Mirá qué maravilla!.*
+
+I am studying Japanese.
+
+I have been studying for 10 years.
+
+I studied a bit of Korean a few years ago, but I didn't like it.

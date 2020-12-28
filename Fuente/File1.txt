@@ -1,0 +1,13 @@
+TTypeofTest=
+(
+        NoTest,
+        HiraganaTest,//lista44
+        KatakanaTest,//lista44
+        KanaTest,//lista44
+        KanjiToReading,//lista44
+        MeaningToRomaji,//lista44
+        ReadingToMeaning//lista22
+        KanjiToMeaning,//lista22
+        MeaningToKanji,//lista11
+        ReadingToKanji,//lista11
+);

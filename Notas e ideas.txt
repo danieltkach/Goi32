@@ -1,0 +1,3 @@
+Te pregunta una palabra y dar todas las colocaciones posibles. Se puntúa no bien ni mal, sino de acuerdo al número de colocaciones que se recuerdan.
+***
+Si un item pasó a la lista de wrongs más de una vez desde que se testeó el archivo de vocabulario, hay que mostrarlo como una advertencia. Lo que sucede es que no hice ningún sistema para comparar el archivo de wrongs anterior con el actual... simplemente se borra el viejo y se pone el nuevo. Si podría hacer una comparación antes de reemplazar los archivos...

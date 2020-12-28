@@ -1,0 +1,235 @@
+Essential Kanji 337-368
+
+*********************************************
+* Created: 01/05/2006 01:08:42 a.m.*
+*********************************************
+
+________________________________________________
+
+[01/05/2006 01:08:42 a.m.]
+ --> Kanji to Meaning test started...
+[01/05/2006 01:14:40 a.m.]
+ --> Test interrupted...
+
+[01/05/2006 01:14:44 a.m.]
+ --> Meaning to Japanese test started...
+[01/05/2006 01:14:50 a.m.]
+ --> Test interrupted...
+
+[01/05/2006 01:14:54 a.m.]
+ --> Reading to Meaning test started...
+    KEN GEN <->   Wrong! >-> verification; effect; testing
+    HAN saka <->   Wrong! >-> slope; incline; hill
+    MI aji <->   Wrong! >-> flavor; taste
+    SHI kami <->   Wrong! >-> paper
+    SHU SU mamo.ru <->   Wrong! >-> guard; protect; defend; obey
+    KEN suko.yakana <->   Wrong! >-> healthy; health; strength; persistence
+    HO tamo.tsu <->   Wrong! >-> protect; guarantee; keep; preserve; sustain; support
+    ZATSU ZOU <->   Wrong! >-> miscellaneous
+    CHI o.ku <->   Wrong! >-> placement; put; set; deposit; leave behind; keep; employ
+    KEN kewa.shii <->   Wrong! >-> precipitous; inaccessible place
+    KOU minato <->   Wrong! >-> harbor
+    REI RAI <->   Wrong! >-> salute; bow; ceremony; thanks; remuneration
+    TAI <->   Wrong! >-> regiment; party; company; squad
+    TOKU e.ru <->   Wrong! >-> gain; get; find; earn; acquire; can; may; able to; profit
+    DOU <->   Wrong! >-> public chamber; hall
+    JO tasu.keru <->   Wrong! >-> help; rescue; assist
+    KA su.gosu ayama.tsu <->   Wrong! >-> overdo; exceed; go beyond; error
+    SHU sake <->   Wrong! >-> sake; alcohol
+    HAN TAN HON so.ru <->   Wrong! >-> anti-
+    HI <->   Wrong! >-> un-; mistake; negative; injustice; non-
+    SHI kokoro.miru tame.su <->   Wrong! >-> test; try; attempt; experiment; ordeal
+    SHIKI <->   Wrong! >-> style; ceremony; rite; fn; method; system; form
+    KETSU musu.bu yu.u <->   Wrong! >-> tie; bind; contract; join; organize; do up hair; bind; fasten; tie
+    KYUU <->   Wrong! >-> salary; wage; gift; allow; grant; bestow on
+    SHI uji <->   Wrong! >-> family name; surname; clan
+[01/05/2006 01:15:09 a.m.]
+ --> Test interrupted...
+
+[01/05/2006 01:18:39 a.m.]
+ --> Multiple choice test started...
+[01/05/2006 01:24:32 a.m.]
+ --> Test interrupted...
+
+[01/05/2006 01:24:51 a.m.]
+ --> Drawing test started...
+    verification; effect; testing  Correct!
+    slope; incline; hill  Correct!
+    flavor; taste  Correct!
+    paper  Correct!
+    guard; protect; defend; obey  Correct!
+    healthy; health; strength; persistence  Correct!
+    protect; guarantee; keep; preserve; sustain; support  Correct!
+    miscellaneous  Correct!
+    placement; put; set; deposit; leave behind; keep; employ  Wrong! >-> íu
+    precipitous; inaccessible place  Correct!
+    harbor  Wrong! >-> ç`
+    salute; bow; ceremony; thanks; remuneration  Wrong! >-> óÁ
+    regiment; party; company; squad  Wrong! >-> ë‡
+    gain; get; find; earn; acquire; can; may; able to; profit  Wrong! >-> ìæ
+    public chamber; hall  Correct!
+    help; rescue; assist  Correct!
+    overdo; exceed; go beyond; error  Correct!
+    sake; alcohol  Correct!
+    anti-  Correct!
+    un-; mistake; negative; injustice; non-  Correct!
+    test; try; attempt; experiment; ordeal  Correct!
+    style; ceremony; rite; fn; method; system; form  Wrong! >-> éÆ
+    tie; bind; contract; join; organize; do up hair; bind; fasten; tie  Correct!
+    salary; wage; gift; allow; grant; bestow on  Correct!
+    family name; surname; clan  Correct!
+    private; I; me  Correct!
+    No.; residence  Correct!
+    entertain; revive; retrieve; interest; pleasure  Correct!
+    blood  Correct!
+    plot; plan; scheme; measure  Correct!
+    sutra; longitude; pass thru; expire; warp  Correct!
+    build  Correct!
+[01/05/2006 01:33:01 a.m.]
+ --> Test completed successfully. Average: 81%
+
+[01/05/2006 02:02:34 a.m.]
+ --> Drawing test started...
+    build  Correct!
+    anti-  Correct!
+    placement; put; set; deposit; leave behind; keep; employ  Wrong! >-> íu
+    sake; alcohol  Correct!
+    style; ceremony; rite; fn; method; system; form  Correct!
+    sutra; longitude; pass thru; expire; warp  Correct!
+    family name; surname; clan  Correct!
+    un-; mistake; negative; injustice; non-  Correct!
+    salute; bow; ceremony; thanks; remuneration  Correct!
+    private; I; me  Correct!
+    tie; bind; contract; join; organize; do up hair; bind; fasten; tie  Correct!
+    gain; get; find; earn; acquire; can; may; able to; profit  Correct!
+    help; rescue; assist  Correct!
+    blood  Correct!
+    regiment; party; company; squad  Correct!
+    precipitous; inaccessible place  Correct!
+    overdo; exceed; go beyond; error  Correct!
+    miscellaneous  Correct!
+    No.; residence  Correct!
+    guard; protect; defend; obey  Correct!
+    plot; plan; scheme; measure  Correct!
+    salary; wage; gift; allow; grant; bestow on  Correct!
+    healthy; health; strength; persistence  Correct!
+    verification; effect; testing  Correct!
+    harbor  Wrong! >-> ç`
+    protect; guarantee; keep; preserve; sustain; support  Correct!
+    slope; incline; hill  Correct!
+    paper  Correct!
+    public chamber; hall  Correct!
+    flavor; taste  Correct!
+    test; try; attempt; experiment; ordeal  Correct!
+    entertain; revive; retrieve; interest; pleasure  Correct!
+[01/05/2006 02:04:06 a.m.]
+ --> Test completed successfully. Average: 93%
+
+[01/05/2006 02:04:18 a.m.]
+ --> Drawing test started...
+    build  Correct!
+    anti-  Correct!
+    placement; put; set; deposit; leave behind; keep; employ  Wrong! >-> íu
+    sake; alcohol  Correct!
+    style; ceremony; rite; fn; method; system; form  Wrong! >-> éÆ
+    sutra; longitude; pass thru; expire; warp  Correct!
+    family name; surname; clan  Correct!
+    un-; mistake; negative; injustice; non-  Correct!
+    salute; bow; ceremony; thanks; remuneration  Wrong! >-> óÁ
+    private; I; me  Correct!
+    tie; bind; contract; join; organize; do up hair; bind; fasten; tie  Correct!
+    gain; get; find; earn; acquire; can; may; able to; profit  Wrong! >-> ìæ
+    help; rescue; assist  Correct!
+    blood  Correct!
+    regiment; party; company; squad  Correct!
+    precipitous; inaccessible place  Correct!
+    overdo; exceed; go beyond; error  Correct!
+    miscellaneous  Correct!
+    No.; residence  Correct!
+    guard; protect; defend; obey  Correct!
+    plot; plan; scheme; measure  Correct!
+    salary; wage; gift; allow; grant; bestow on  Correct!
+    healthy; health; strength; persistence  Correct!
+    verification; effect; testing  Correct!
+    harbor  Correct!
+    protect; guarantee; keep; preserve; sustain; support  Correct!
+    slope; incline; hill  Correct!
+    paper  Wrong! >-> éÜ
+ 
+[01/05/2006 02:05:34 a.m.]
+ --> Test interrupted...
+
+[01/05/2006 02:05:56 a.m.]
+ --> Drawing test started...
+    build  Correct!
+    precipitous; inaccessible place  Correct!
+    gain; get; find; earn; acquire; can; may; able to; profit  Correct!
+    salute; bow; ceremony; thanks; remuneration  Correct!
+    miscellaneous  Correct!
+    harbor  Correct!
+    family name; surname; clan  Correct!
+    salary; wage; gift; allow; grant; bestow on  Correct!
+    private; I; me  Correct!
+    blood  Wrong! >-> åå
+    sake; alcohol  Correct!
+    flavor; taste  Correct!
+    entertain; revive; retrieve; interest; pleasure  Wrong! >-> ãª
+    verification; effect; testing  Correct!
+    No.; residence  Wrong! >-> ëÊ
+    sutra; longitude; pass thru; expire; warp  Correct!
+    overdo; exceed; go beyond; error  Wrong! >-> âﬂ
+    un-; mistake; negative; injustice; non-  Wrong! >-> îÒ
+    guard; protect; defend; obey  Correct!
+    slope; incline; hill  Wrong! >-> ç‚
+    plot; plan; scheme; measure  Correct!
+    tie; bind; contract; join; organize; do up hair; bind; fasten; tie  Correct!
+    regiment; party; company; squad  Correct!
+    paper  Correct!
+    healthy; health; strength; persistence  Correct!
+    protect; guarantee; keep; preserve; sustain; support  Correct!
+    style; ceremony; rite; fn; method; system; form  Correct!
+    anti-  Correct!
+    public chamber; hall  Correct!
+    test; try; attempt; experiment; ordeal  Correct!
+    help; rescue; assist  Correct!
+    placement; put; set; deposit; leave behind; keep; employ  Correct!
+[01/05/2006 02:06:26 a.m.]
+ --> Test completed successfully. Average: 81%
+
+[03/05/2006 02:13:13 a.m.]
+ --> Kanji to reading test started...
+    ë‡ <->   Wrong! >-> TAI
+    ì∞ <->   Wrong! >-> DOU
+    é <->   Wrong! >-> SHU sake
+    ãª <-> Á  Wrong! >-> KOU KYOU oko.su
+    éG <->   Wrong! >-> ZATSU ZOU
+    åv <->   Wrong! >-> KEI haka.ru
+    ç‚ <-> ÁÁ  Wrong! >-> HAN saka
+    ãã <->   Wrong! >-> KYUU
+    éÅ <->   Wrong! >-> SHI uji
+    åå <->   Wrong! >-> KETSU chi
+    åã <->   Wrong! >-> KETSU musu.bu yu.u
+    ï€ <->   Wrong! >-> HO tamo.tsu
+    îÒ <->   Wrong! >-> HI
+    óÁ <->   Wrong! >-> REI RAI
+    ëÊ <->   Wrong! >-> DAI
+    éÁ <->   Wrong! >-> SHU SU mamo.ru
+    éÆ <->   Wrong! >-> SHIKI
+    éÜ <->   Wrong! >-> SHI kami
+    åØ <->   Wrong! >-> KEN kewa.shii
+    éÑ <->   Wrong! >-> SHI watashi
+    èï <->   Wrong! >-> JO tasu.keru
+    éé <->   Wrong! >-> SHI kokoro.miru tame.su
+    ñ° <-> Á  Wrong! >-> MI aji
+    ç` <->   Wrong! >-> KOU minato
+    îΩ <->   Wrong! >-> HAN TAN HON so.ru
+    åí <->   Wrong! >-> KEN suko.yakana
+    åo <->   Wrong! >-> KEI KYOU he.ru
+    íu <-> ÁÁ  Wrong! >-> CHI o.ku
+    å± <-> Á  Wrong! >-> KEN GEN
+    âﬂ <-> Á  Wrong! >-> KA su.gosu ayama.tsu
+    åö <->   Wrong! >-> KEN KON ta.teru
+    ìæ <->   Wrong! >-> TOKU e.ru
+[03/05/2006 02:13:26 a.m.]
+ --> Test completed successfully. Average: 0%
+

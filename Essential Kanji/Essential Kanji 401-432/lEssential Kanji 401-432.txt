@@ -1,0 +1,82 @@
+Essential Kanji 401-432
+
+*********************************************
+* Created: 03/05/2006 01:44:13 a.m.*
+*********************************************
+
+________________________________________________
+
+[03/05/2006 01:44:13 a.m.]
+ --> Kanji to reading test started...
+    ’ë <->   Wrong! >-> TEI niwa
+    ’… <->   Wrong! >-> CHAKU JAKU ki.ru tsu.ku
+    ”C <->   Wrong! >-> NIN maka.seru
+    ” <->   Wrong! >-> SUU SU kazu kazo.eru
+    —A <->   Wrong! >-> YU
+    Œ| <-> ç  Wrong! >-> GEI
+    ‹@ <-> ç  Wrong! >-> KI hata
+    “Á <-> ç  Wrong! >-> TOKU
+    ‘¶ <->   Wrong! >-> ZON SON zon.jiru
+    —ñ <->   Wrong! >-> RETSU
+    ”z <->   Wrong! >-> HAI kuba.ru
+    ª <-> ç  Wrong! >-> KON ne
+    –… <->   Wrong! >-> MAI imouto
+    ”ò <->   Wrong! >-> HI to.bu
+    ê <->   Wrong! >-> SEN moppa.ra
+    Œ  <->   Wrong! >-> KEN GON
+    “Å <->   Wrong! >-> DOKU
+    —¿ <->   Wrong! >-> RYOU
+    D <-> ç  Wrong! >-> SHOKU SHIKI o.ru
+    ˜_ <->   Wrong! >-> RON
+    Û <-> ç  Wrong! >-> SAI kiwa
+    ŒW <->   Wrong! >-> KEI kaka.ru
+    —¯ <->   Wrong! >-> RYUU RU to.meru
+    ”\ <->   Wrong! >-> NOU
+    E <->   Wrong! >-> SATSU SAI SETSU koro.su
+    ‹Ç <-> ç  Wrong! >-> KYOKU
+    Ú <-> çç  Wrong! >-> SETSU ses.suru tsu.gu
+    Š¿ <->   Wrong! >-> KAN
+    Šè <-> çç  Wrong! >-> GAN nega.u
+    Õ <->   Wrong! >-> SAI matsu.ru
+    E <->   Wrong! >-> SHOKU
+    È <->   Wrong! >-> SHOU SEI kaeri.miru habu.ku
+[03/05/2006 01:44:20 a.m.]
+ --> Test completed successfully. Average: 0%
+
+[03/05/2006 02:02:11 a.m.]
+ --> Kanji to reading test started...
+    —ñ <-> ç´ç´ç  Wrong! >-> RETSU
+    Õ <-> ç  Wrong! >-> SAI matsu.ru
+    ‹Ç <->   Wrong! >-> KYOKU
+    “Å <->   Wrong! >-> DOKU
+    ”C <->   Wrong! >-> NIN maka.seru
+    ”z <->   Wrong! >-> HAI kuba.ru
+    È <-> ç  Wrong! >-> SHOU SEI kaeri.miru habu.ku
+    –… <->   Wrong! >-> MAI imouto
+    E <->   Wrong! >-> SATSU SAI SETSU koro.su
+    ª <->   Wrong! >-> KON ne
+    D <->   Wrong! >-> SHOKU SHIKI o.ru
+    —A <->   Wrong! >-> YU
+    Œ  <->   Wrong! >-> KEN GON
+    ŒW <->   Wrong! >-> KEI kaka.ru
+    ˜_ <->   Wrong! >-> RON
+    ‘¶ <->   Wrong! >-> ZON SON zon.jiru
+    Œ| <->   Wrong! >-> GEI
+    ê <->   Wrong! >-> SEN moppa.ra
+    Û <->   Wrong! >-> SAI kiwa
+    Š¿ <->   Wrong! >-> KAN
+    ”\ <->   Wrong! >-> NOU
+    ‹@ <->   Wrong! >-> KI hata
+    ’… <->   Wrong! >-> CHAKU JAKU ki.ru tsu.ku
+    ” <-> ç  Wrong! >-> SUU SU kazu kazo.eru
+    Šè <->   Wrong! >-> GAN nega.u
+    E <->   Wrong! >-> SHOKU
+    ’ë <->   Wrong! >-> TEI niwa
+    —¯ <->   Wrong! >-> RYUU RU to.meru
+    Ú <->   Wrong! >-> SETSU ses.suru tsu.gu
+    —¿ <->   Wrong! >-> RYOU
+    “Á <-> ç  Wrong! >-> TOKU
+    ”ò <->   Wrong! >-> HI to.bu
+[03/05/2006 02:02:19 a.m.]
+ --> Test completed successfully. Average: 0%
+
